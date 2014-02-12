@@ -40,6 +40,10 @@ Constituted of:
   - a list of _consumers_ associated
   - a list of items provided by the _vendors_
 
+###Platforms
+
+_Consumers_ must be able to browse/buy on smartphone, no need for native app, though.
+
 ### Tech
 
 Any technology is free to use
